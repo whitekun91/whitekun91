@@ -29,7 +29,7 @@
 
 ### 🧰 Tech Stack
 
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div align="center">
 
 <a href="https://python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/></a>
 <a href="https://fastapi.tiangolo.com/"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50" height="50" alt="FastAPI"/></a>
@@ -39,34 +39,13 @@
 <a href="https://langchain.com/"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50" height="50" alt="LangChain"/></a>
 <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50" height="50" alt="Hugging Face"/></a>
 
-</p>
+</div>
+
 
 ---
 
-### 📊 GitHub Stats
+### 📫 Comments
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitekun91&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=whitekun91&show_icons=true&theme=tokyonight" alt="Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=whitekun91&theme=tokyonight" alt="Streak Stats" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📫 Contact
-
-- ✉️ [Mail](minwoo713@gmail.com)
-- 🌐 [LinkedIn](https://linkedin.com/in/백민우)
 - 💭 “Connecting Human Knowledge, Data, and AI Reasoning.”
 
 ---
