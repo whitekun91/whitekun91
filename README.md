@@ -24,35 +24,28 @@
 
 ### 👤 About Me
 
-Industrial Engineering background (**Kyung Hee University**). **Ph.D. candidate** (Big Data Applications) — currently focused on graduate research while building on prior industry experience.
-
-I enjoy connecting **domain knowledge** with **data**, finding the story in between, and shipping models that actually solve problems—not only generative AI, but classical **ML**, **forecasting**, **computer vision / 3D metrology**, and **manufacturing and quality** use cases.
-
-Several years of experience as an **ML engineer** and **data scientist** in research and development and industry (smart manufacturing, solution SW). Comfortable with **team workflows** (Jira, Confluence) and **Git**-based collaboration.
-
-Recently I also work on **LLM-based systems**—**RAG**, retrieval, and **on-premise** serving stacks—when the problem fits, alongside the broader ML and data stack.
+- **Education:** Industrial Engineering · **Kyung Hee University**
+- **Now:** **Ph.D. candidate** · Big Data Applications · graduate research focus
+- **What I like:** **Domain knowledge** × **data** → models that solve real problems
+- **Topics:** Classical **ML**, **forecasting**, **computer vision / 3D metrology**, **manufacturing and quality** (not only GenAI)
+- **Experience:** **ML engineer** / **data scientist** · R&D + industry (smart manufacturing, solution SW)
+- **Collab:** Jira · Confluence · **Git**
+- **Recent stack:** **LLM** systems · **RAG** · retrieval · **on-prem** serving (vLLM, LangChain, etc.) when it fits
 
 ---
 
 ### 💼 Career
 
-<div align="center">
+_See also [LinkedIn](https://www.linkedin.com/in/bjh713/) for full detail (may update slower than this README)._
 
-![PhD](https://img.shields.io/badge/Kyung%20Hee%20Univ.%20%28Ph.D.%29-2026--Present-BA0C2F?style=flat-square)
-![Hanwha Momentum](https://img.shields.io/badge/Hanwha%20Momentum-2024.07--2026.03.31-0e75b6?style=flat-square)
-![Hanwha](https://img.shields.io/badge/Hanwha-2022--2024-1f6feb?style=flat-square)
-![KETI](https://img.shields.io/badge/KETI%20%28Smart%20Mfg%29-2020--2022-238636?style=flat-square)
+#### Snapshot
 
-</div>
-
-_Career summary (see also [LinkedIn](https://www.linkedin.com/in/bjh713/) — may lag this README)._
-
-| Organization | Period |
-| --- | --- |
-| **Kyung Hee University** · Ph.D. program, Big Data Applications (빅데이터응용학과) | **2026–Present** (in progress) |
-| Hanwha Momentum (한화모멘텀) | 2024.07–**2026.03.31** (left) |
-| Hanwha (한화) | 2022–2024 |
-| Korea Electronics Technology Institute (KETI) · Smart Manufacturing Innovation Center | 2020–2022 |
+| Period | Organization | Role / program |
+| :-- | :-- | :-- |
+| **2026 – Present** | **Kyung Hee University** | Ph.D. · *Big Data Applications*  — *in progress* |
+| **2024.07 – 2026.03** | **Hanwha Momentum** | Data Scientist · SW / manufacturing solutions — *left 2026.03.31* |
+| **2022 – 2024** | **Hanwha** | Data Scientist · semiconductor process & equipment (ALD / PECVD, anomaly detection, RUL) |
+| **2020 – 2022** | **KETI** · Smart Manufacturing Innovation Center | Data analyst / researcher · smart-factory & manufacturing data platforms |
 
 ---
 
@@ -70,7 +63,7 @@ _Career summary (see also [LinkedIn](https://www.linkedin.com/in/bjh713/) — ma
 
 <div align="center">
 
-![skills](https://skillicons.dev/icons?i=py,torch,fastapi,nodejs,postgres,mongodb&perline=6)
+![skills](https://skillicons.dev/icons?i=py,pytorch,fastapi,nodejs,postgres,mongodb&perline=6)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
